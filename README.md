@@ -1,20 +1,19 @@
-# Favorite Movie Catalog
+# Aluraflix
 
 ## Description
-The Favorite Movie Catalog project allows users to add their favorite movies by providing links to images and trailers. Users can view their favorite movies in a visually appealing format.
+Aluraflix is a movie catalog application that allows users to browse a collection of movies. The application displays movie posters along with their titles.
 
 ## Features
-- Input fields for movie image and trailer links.
-- Add movies to a list with validation for image links.
-- Display a list of added movies with clickable trailer links.
+- Display of movie posters and titles.
+- Dynamic generation of movie content using JavaScript.
+- Error handling for invalid image URLs.
 
 ## Installation
-To run the project, simply open the `index.html` file in a web browser.
+To run the project, open the `index.html` file in a web browser.
 
 ## Usage
-1. Enter the image link of your favorite movie.
-2. Enter the trailer link of the movie.
-3. Click the "Add Movie" button to add the movie to the list.
+1. Open the `index.html` file in a web browser.
+2. View the list of movies displayed on the page.
 
 ## License
 This project is licensed under the MIT License.
